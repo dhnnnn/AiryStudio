@@ -1,5 +1,106 @@
 body {
-    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal;
+  
+  font-family: "Poppins";
+  font-weight: 500;
+  font-style: normal;
+}
+#text {
+  color: rgb(131, 131, 131);
+  font-size: 30px;
+}
+
+#text-footer{
+  font-family: poppins; 
+  color: rgb(49, 49, 49); 
+  font-size: medium;
+}
+
+#logo {
+  margin-top: 15px; 
+  margin-left : 20px; 
+  color: rgb(75, 74, 74);
+}
+
+a{
+  text-decoration: none;
+}
+
+#testimonial_area {
+	padding: 10% 0;
+}
+.box-area {
+	padding: 20px;
+	position: relative;
+	display: block;
+	background: #fff;
+	color: #000;
+	margin: 40px 0;
+}
+.box-area h5 {
+	font-size: 16px;
+	font-weight: 700;
+	color: rgb(49, 49, 49);
+	margin-top: 30px;
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.box-area span {
+	color: #262626;
+	display: block;
+	font-size: 13px;
+	margin: 0 0 10px;
+	font-weight: 400;
+}
+.box-area .content {
+	color: #262626;
+}
+#testimonial_area .owl-nav {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+#testimonial_area .owl-prev, #testimonial_area .owl-next {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	color: #878a8f;
+	border-radius: 50%;
+	text-align: center;
+	background: #fff;
+	position: absolute;
+}
+#testimonial_area .owl-prev {
+	left: -60px;
+	top: -30px;
+}
+#testimonial_area .owl-next {
+	right: -60px;
+	top: -30px;
+}
+
+.box-area .img-area {
+	overflow: hidden;
+}
+.img-area img {
+	transition: 1s;
+}
+.img-area img:hover {
+	transform: scale(1.1);
+}
+
+
+
+@media only screen and (max-width: 991px) {
+	.owl-nav {
+		display: none;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.box-area {
+		text-align: center;
+	}
+	.owl-nav {
+		display: none;
+	}
 }
