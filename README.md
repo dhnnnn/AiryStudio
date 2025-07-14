@@ -18,18 +18,18 @@ Airy Studio adalah perusahaan yang bergerak di bidang jasa dokumentasi visual. K
 git clone https://github.com/dhnnnn/AiryStudio.git
 ```
 2. Masuk ke folder proyek:
-
+```
 cd airy-studio
-
+```
 3. Buka file index.html di browser:
 
-Kamu bisa langsung klik dua kali index.html, atau gunakan Live Server jika memakai Visual Studio Code.
+     Kamu bisa langsung klik dua kali index.html, atau gunakan Live Server jika memakai Visual Studio Code.
 
-Atau jalankan via Live Server (VS Code):
+    Atau jalankan via Live Server (VS Code):
 
-- Install ekstensi Live Server
+     - Install ekstensi Live Server
 
-- Klik kanan index.html → Open with Live Server
+     - Klik kanan index.html → Open with Live Server
 
 
 ## Teknologi yang Digunakan
