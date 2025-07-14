@@ -15,9 +15,7 @@ Airy Studio adalah perusahaan yang bergerak di bidang jasa dokumentasi visual. K
 
 1. Clone repositori ini ke komputer lokal:
 
-
-
-git clone 
+git clone https://github.com/dhnnnn/AiryStudio.git
 
 2. Masuk ke folder proyek:
 
