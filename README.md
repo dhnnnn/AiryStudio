@@ -1,7 +1,7 @@
 # Airy Studio
 
 Selamat datang di repositori resmi website Airy Studio platform digital resmi dari layanan kami di bidang fotografi, videografi, yearbook, dan self photo.
-p
+
 ##  Tentang Airy Studio
 
 Airy Studio adalah perusahaan yang bergerak di bidang jasa dokumentasi visual. Kami hadir untuk mengabadikan setiap momen penting Anda melalui sentuhan seni fotografi dan videografi profesional. Dengan pengalaman dan tim yang kompeten, kami menawarkan layanan berkualitas dalam:
