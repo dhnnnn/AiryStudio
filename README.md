@@ -1,6 +1,6 @@
 # Airy Studio
 
-Selamat datang di repositori resmi website Airy Studio platform digital resmi dari layanan kami di bidang fotografi, videografi, yearbook, dan self photo.
+Selamat datang di repositori resmi website Airy Studio platform digital resmi dari layanan kami di bidang fotografi, videografi, yearbook, dan self photo.p
 
 ##  Tentang Airy Studio
 
